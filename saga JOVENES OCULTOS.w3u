@@ -1,0 +1,47 @@
+
+{
+"name": "JOVENES OCULTOS",
+"image": "https://pics.filmaffinity.com/the_lost_boys-230422119-large.jpg",
+"url": "https://af1cionados.vercel.app/saga JOVENES OCULTOS.w3u",
+"info": "bY 🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+	[
+
+	{
+	"name": "Jovenes ocultos",
+        "image": "https://pics.filmaffinity.com/the_lost_boys-230422119-large.jpg",
+        "url": "https://filemoon.to/d/8egoq902sqsy/J_venes_ocultos",
+       	"info": "[Español 1987]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Jovenes ocultos 2, vampiros del surf",
+        "image": "https://pics.filmaffinity.com/lost_boys_2_the_tribe-508865780-large.jpg",
+        "url": "https://filemoon.to/d/e5t1lwyyfpj0/J_venes_Ocultos_2_Vampiros_del_surf",
+       	"info": "[Español 2008]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	},
+	{
+	"name": "Jovenes ocultos 3, sed de sangre",
+        "image": "https://pics.filmaffinity.com/lost_boys_the_thirst_lost_boys_3-739685241-large.jpg",
+        "url": "https://filemoon.to/d/k031vz6nwq7t/J_venes_ocultos_3_Sed_de_sangre.mp4",
+       	"info": "[Español 2010]",
+       	"embed": "",
+       	"isHost": "true",
+       	"online": "true",
+	"userAgent":"PlusMediaPlayer/0.0.9",
+       	"import": false
+       	}
+
+]
+}
